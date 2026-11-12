@@ -1,7 +1,7 @@
 -- Zee-Hub GrowBlox V1.3: startup compatibility build for Delta.
 -- Original feature bodies are retained; this wrapper handles loading and UI failures.
 local Boot = {
-    SourceUrl = "https://raw.githubusercontent.com/veverosvange-ops/ZeeHUB/refs/heads/main/zeehub_ori.lua",
+    SourceUrl = "",
     WindUrl = "https://raw.githubusercontent.com/Footagesus/WindUI/d2c9bac5f96f997418d680d19cb759892542e492/dist/main.lua",
     WindRevision = "d21ff4f2309cb337ca34affcae8755c373985731",
     Stage = "Menyiapkan Zee-Hub",
